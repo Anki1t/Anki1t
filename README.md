@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anki1t" alt="anki1t" /></a> </p>
 
-- 🔭 I’m currently working on Technorishi Consulting Private Ltd
+- 🔭 I’m currently looking for oppurtunities 
 
 - 🌱 I’m currently learning **Devops**
 
